@@ -9,8 +9,9 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po občinah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna.
+
+Podatke bom dobil iz Statističnega urada Republike Slovenije.
 
 ## Program
 
