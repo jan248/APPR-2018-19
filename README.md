@@ -7,12 +7,17 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 * [![Shiny](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=shiny/APPR-2018-19/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza gradbeništva v Sloveniji
 
-Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po občinah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna.
+Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna.
 
 Podatke bom dobil iz Statističnega urada Republike Slovenije.
 
+# Tabele
+Povezave do tabel:
+https://pxweb.stat.si/pxweb/dialog/Saveshow.asp
+https://pxweb.stat.si/pxweb/Dialog/Saveshow.asp
+https://pxweb.stat.si/pxweb/Dialog/Saveshow.asp
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
