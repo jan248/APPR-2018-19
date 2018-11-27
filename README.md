@@ -16,7 +16,9 @@ Podatke bom dobil iz Statističnega urada Republike Slovenije.
 # Tabele
 Povezave do tabel:
 https://pxweb.stat.si/pxweb/dialog/Saveshow.asp
+
 https://pxweb.stat.si/pxweb/Dialog/Saveshow.asp
+
 https://pxweb.stat.si/pxweb/Dialog/Saveshow.asp
 ## Program
 
