@@ -9,7 +9,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 ## Analiza gradbeništva v Sloveniji
 
-Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna. Primerjal bom oceno stanovanj in stavb po regijah ter občinah, vrednost opravljenih gradbenih del, izdana gradbena dovoljenja po statističnih regijah in to primerjal z izobraženostjo ljudi, povprečno plačo, poseljenostjo, povprečno starostjo, brezposelnostjo ter kriminaliteto po teh statističnih regijah.
+Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna. Primerjal bom oceno stanovanj in stavb po regijah ter občinah, vrednost opravljenih gradbenih del, izdana gradbena dovoljenja po statističnih regijah in to primerjal z izobraženostjo ljudi, povprečno plačo, poseljenostjo, stanovanjskim standardom, brezposelnostjo ter kriminaliteto po teh statističnih regijah.
 
 Podatke bom pridobil iz Statističnega urada Republike Slovenije.
 
