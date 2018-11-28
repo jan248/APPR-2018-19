@@ -9,17 +9,24 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 ## Analiza gradbeništva v Sloveniji
 
-Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna.
+Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna. Primerjal bom oceno stanovanj in stavb po regijah ter občinah, vrednost opravljenih gradbenih del, izdana gradbena dovoljenja po statističnih regijah in to primerjal z izobraženostjo ljudi, povprečno plačo, poseljenostjo, povprečno starostjo, brezposelnostjo ter kriminaliteto po teh statističnih regijah.
 
-Podatke bom dobil iz Statističnega urada Republike Slovenije.
+Podatke bom pridobil iz Statističnega urada Republike Slovenije.
 
 # Tabele
 Povezave do tabel:
-https://pxweb.stat.si/pxweb/dialog/Saveshow.asp
-
-https://pxweb.stat.si/pxweb/Dialog/Saveshow.asp
-
-https://pxweb.stat.si/pxweb/Dialog/Saveshow.asp
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1906901S&ti=&path=../Database/Ekonomsko/19_gradbenistvo/05_19069_graditev_stan/&lang=2
+Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1906910S&ti=&path=../Database/Ekonomsko/19_gradbenistvo/05_19069_graditev_stan/&lang=2
+Ocena dokončanih stanovanj - izbrani kazalniki, po statističnih regijah Slovenije, letno
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1906911S&ti=&path=../Database/Ekonomsko/19_gradbenistvo/05_19069_graditev_stan/&lang=2
+Ocena dokončanih stanovanj - izbrani kazalniki, po občinah Slovenije, letno
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1923801S&ti=&path=../Database/Ekonomsko/19_gradbenistvo/05_19238_graditev_stavb/&lang=2
+Ocena dokončanih stavb in stavb v gradnji ob koncu leta, Slovenija, letno
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1919801S&ti=&path=../Database/Ekonomsko/19_gradbenistvo/07_19198_vrednost_del/&lang=2
+Vrednost opravljenih gradbenih del [v EUR] po tipu gradbene aktivnosti in vrsti objektov, Slovenija, letno
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1970716S&ti=&path=../Database/Ekonomsko/19_gradbenistvo/06_19707_dovoljenja/&lang=2
+Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe in vrsto investitorja, po statističnih regijah Slovenije, letno
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
