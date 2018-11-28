@@ -11,6 +11,10 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna. Primerjal bom oceno stanovanj in stavb po regijah ter občinah, vrednost opravljenih gradbenih del, izdana gradbena dovoljenja po statističnih regijah in to primerjal z izobraženostjo ljudi, povprečno plačo, prenaseljenostjo stanovanj, stanovanjskim standardom, brezposelnostjo ter kriminaliteto po teh statističnih regijah.
 
+Tabele za stanovanja v gradnji, gradbena dovoljenja in vrednost gradbenih del sem podal s povezavami do spletne strani, tabele s katerimi jih bom primerjal, torej izobraženostjo ljudi, povprečno plačo, prenaseljenostjo stanovanj, stanovanjskim standardom, brezposelnostjo ter kriminaliteto po statističnih regijah pa sem podal med podatke.
+
+Želim raziskati povezavo med gradnjo stanovanj in pripadajočih elementov z različnimi kategorijami, ki bi lahko na to vplivale in to primerjati po občinah oziroma regijah. Zanima me tudi, kako so se te povezave spreminjale skozi leta in njihova kohezija.
+
 Podatke bom pridobil iz Statističnega urada Republike Slovenije.
 
 # Tabele
