@@ -1,0 +1,61 @@
+"";"Vrsta.gradnje";"Investitor";"Tip.gradnje";"Leto";"Število.dokončanih.stavb";"Površina.dokončanih.stavb..m2.";"Prostornina.dokončanih.stavb..m3.";"Število.stavb.v.gradnji";"Površina.stavb.v.gradnji..m2.";"Prostornina.stavb.v.gradnji..m3."
+"1";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2008;1149;1809046;7464047;1006;1294594;5395295
+"2";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2009;1006;1294594;5395295;756;901054;3722872
+"3";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2010;756;901054;3722872;485;963117;3865045
+"4";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2011;485;963117;3865045;558;698245;3238241
+"5";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2012;558;698245;3238241;385;408678;2029247
+"6";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2013;385;408678;2029247;313;353521;1786114
+"7";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2014;313;353521;1786114;325;224496;1308837
+"8";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2015;339;225144;NA;325;203042;NA
+"9";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2016;422;207999;NA;546;411983;NA
+"10";"1 Stavbe - SKUPAJ";"Pravna oseba";"Novogradnja";2017;719;420827;NA;547;552615;NA
+"11";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2008;151;120298;593409;0;0;0
+"12";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2009;114;129439;805215;0;0;0
+"13";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2010;105;111776;567748;0;0;0
+"14";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2011;125;106552;560799;0;0;0
+"15";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2012;99;82862;446690;0;0;0
+"16";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2013;91;122110;745757;0;0;0
+"17";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2014;92;70380;380706;0;0;0
+"18";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2015;137;97333;NA;0;0;NA
+"19";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2016;197;147096;NA;0;0;NA
+"20";"1 Stavbe - SKUPAJ";"Pravna oseba";"Povečava";2017;157;139297;NA;0;0;NA
+"21";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2008;60;54998;219770;0;0;0
+"22";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2009;40;29829;157751;0;0;0
+"23";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2010;47;27852;112540;0;0;0
+"24";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2011;25;23151;85357;0;0;0
+"25";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2012;22;37111;219974;0;0;0
+"26";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2013;21;23293;111821;0;0;0
+"27";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2014;19;23156;95092;0;0;0
+"28";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2015;17;13017;NA;0;0;NA
+"29";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2016;40;51727;NA;0;0;NA
+"30";"1 Stavbe - SKUPAJ";"Pravna oseba";"Sprememba namembnosti";2017;44;32701;NA;0;0;NA
+"31";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2008;3516;1035108;3126095;10628;3066325;9497421
+"32";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2009;3700;1108558;3400520;10001;2842956;8932015
+"33";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2010;3717;1077031;3315061;8991;2511749;8016508
+"34";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2011;3432;976400;3058941;8003;2208009;7234757
+"35";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2012;3015;863086;2774748;7171;1941370;6479632
+"36";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2013;2674;731237;2355941;7024;1887752;6408002
+"37";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2014;2419;656518;2230750;6868;1819013;6113001
+"38";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2015;3138;659798;NA;7654;1888639;NA
+"39";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2016;5423;852745;NA;8468;1932426;NA
+"40";"1 Stavbe - SKUPAJ";"Fizična oseba";"Novogradnja";2017;5073;755515;NA;11584;2199343;NA
+"41";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2008;481;101952;331068;0;0;0
+"42";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2009;479;108329;368639;0;0;0
+"43";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2010;463;97367;321602;0;0;0
+"44";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2011;398;89838;306829;0;0;0
+"45";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2012;405;91296;335243;0;0;0
+"46";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2013;435;108714;366891;0;0;0
+"47";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2014;449;95959;309890;0;0;0
+"48";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2015;577;115507;NA;0;0;NA
+"49";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2016;523;113370;NA;0;0;NA
+"50";"1 Stavbe - SKUPAJ";"Fizična oseba";"Povečava";2017;506;106283;NA;0;0;NA
+"51";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2008;125;32439;100702;0;0;0
+"52";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2009;108;36067;106873;0;0;0
+"53";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2010;95;29130;119158;0;0;0
+"54";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2011;71;20773;69222;0;0;0
+"55";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2012;61;18459;64838;0;0;0
+"56";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2013;56;15206;56215;0;0;0
+"57";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2014;59;15936;47843;0;0;0
+"58";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2015;60;15858;NA;0;0;NA
+"59";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2016;110;33419;NA;0;0;NA
+"60";"1 Stavbe - SKUPAJ";"Fizična oseba";"Sprememba namembnosti";2017;89;27026;NA;0;0;NA

@@ -2,7 +2,7 @@
 "KLASIFIKACIJA VRST OBJEKTOV [CC-SI], INVESTITOR, TIP GRADBENE"
 "AKTIVNOSTI, LETO , MERITVE"
 
-" ";" ";" ";" ";"Število dokonèanih stavb";"Površina dokonèanih stavb [m2]";"Prostornina dokonèanih stavb [m3]";"Število stavb v gradnji";"Površina stavb v gradnji [m2]";"Prostornina stavb v gradnji [m3]"
+"Vrsta gradnje";"Investitor";"Tip gradnje";"Leto";"Število dokonèanih stavb";"Površina dokonèanih stavb [m2]";"Prostornina dokonèanih stavb [m3]";"Število stavb v gradnji";"Površina stavb v gradnji [m2]";"Prostornina stavb v gradnji [m3]"
 "1 Stavbe - SKUPAJ"
 " ";"Pravna oseba"
 " ";" ";"Novogradnja"

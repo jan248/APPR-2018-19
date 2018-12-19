@@ -1,0 +1,430 @@
+"";"Investitor";"Regija";"Tip.objekta";"Leto";"Število.stavb";"Površina.stavb.......m2."
+"1";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2007;5858;3410786
+"2";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2008;5373;2656335
+"3";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2009;4570;2089907
+"4";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2010;3902;1975066
+"5";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2011;3621;1611219
+"6";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2012;3205;1251166
+"7";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2013;3443;1300463
+"8";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2014;3166;1007637
+"9";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2015;5054;1174829
+"10";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2016;6809;1599641
+"11";"Investitor - SKUPAJ";"SLOVENIJA";"Tip stavbe - SKUPAJ";2017;6704;1702054
+"12";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2007;4537;1991922
+"13";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2008;4185;1593478
+"14";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2009;3534;1189559
+"15";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2010;2870;1105243
+"16";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2011;2629;772110
+"17";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2012;2375;671523
+"18";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2013;2549;708177
+"19";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2014;2359;601839
+"20";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2015;2441;616917
+"21";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2016;2617;661373
+"22";"Investitor - SKUPAJ";"SLOVENIJA";"Stanovanjske stavbe";2017;2713;699311
+"23";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2007;1321;1418864
+"24";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2008;1188;1062857
+"25";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2009;1036;900348
+"26";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2010;1032;869823
+"27";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2011;992;839109
+"28";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2012;830;579643
+"29";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2013;894;592286
+"30";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2014;807;405798
+"31";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2015;2613;557912
+"32";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2016;4192;938268
+"33";"Investitor - SKUPAJ";"SLOVENIJA";"Nestanovanjske stavbe";2017;3991;1002743
+"34";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2007;390;149269
+"35";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2008;381;117612
+"36";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2009;363;142369
+"37";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2010;349;108583
+"38";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2011;269;70741
+"39";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2012;230;62159
+"40";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2013;258;115672
+"41";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2014;239;69706
+"42";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2015;616;111508
+"43";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2016;762;146499
+"44";"Investitor - SKUPAJ";"Pomurska";"Tip stavbe - SKUPAJ";2017;804;140070
+"45";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2007;269;72605
+"46";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2008;265;68040
+"47";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2009;252;60420
+"48";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2010;243;52682
+"49";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2011;186;42149
+"50";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2012;146;32372
+"51";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2013;184;41480
+"52";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2014;174;34615
+"53";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2015;203;47876
+"54";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2016;216;47456
+"55";"Investitor - SKUPAJ";"Pomurska";"Stanovanjske stavbe";2017;210;43828
+"56";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2007;121;76664
+"57";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2008;116;49572
+"58";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2009;111;81949
+"59";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2010;106;55901
+"60";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2011;83;28592
+"61";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2012;84;29787
+"62";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2013;74;74192
+"63";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2014;65;35091
+"64";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2015;413;63632
+"65";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2016;546;99043
+"66";"Investitor - SKUPAJ";"Pomurska";"Nestanovanjske stavbe";2017;594;96242
+"67";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2007;1081;560410
+"68";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2008;1013;435642
+"69";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2009;724;252361
+"70";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2010;687;269957
+"71";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2011;674;310127
+"72";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2012;515;190855
+"73";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2013;622;206751
+"74";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2014;590;172185
+"75";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2015;777;191332
+"76";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2016;1308;288524
+"77";"Investitor - SKUPAJ";"Podravska";"Tip stavbe - SKUPAJ";2017;1295;269103
+"78";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2007;852;346455
+"79";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2008;823;276620
+"80";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2009;590;166101
+"81";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2010;550;146601
+"82";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2011;529;144630
+"83";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2012;381;94677
+"84";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2013;469;109527
+"85";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2014;448;107968
+"86";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2015;434;97517
+"87";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2016;535;122391
+"88";"Investitor - SKUPAJ";"Podravska";"Stanovanjske stavbe";2017;622;139068
+"89";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2007;229;213955
+"90";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2008;190;159022
+"91";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2009;134;86260
+"92";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2010;137;123356
+"93";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2011;145;165497
+"94";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2012;134;96178
+"95";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2013;153;97224
+"96";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2014;142;64217
+"97";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2015;343;93815
+"98";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2016;773;166133
+"99";"Investitor - SKUPAJ";"Podravska";"Nestanovanjske stavbe";2017;673;130035
+"100";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2007;186;104069
+"101";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2008;173;117976
+"102";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2009;127;69749
+"103";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2010;139;65067
+"104";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2011;121;58100
+"105";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2012;129;53041
+"106";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2013;108;41652
+"107";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2014;125;48359
+"108";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2015;149;37351
+"109";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2016;262;57950
+"110";"Investitor - SKUPAJ";"Koroška";"Tip stavbe - SKUPAJ";2017;223;74628
+"111";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2007;113;36294
+"112";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2008;126;43562
+"113";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2009;74;28085
+"114";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2010;89;24369
+"115";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2011;74;21141
+"116";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2012;83;20941
+"117";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2013;75;21442
+"118";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2014;86;22463
+"119";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2015;63;14926
+"120";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2016;70;16318
+"121";"Investitor - SKUPAJ";"Koroška";"Stanovanjske stavbe";2017;73;16821
+"122";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2007;73;67775
+"123";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2008;47;74414
+"124";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2009;53;41664
+"125";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2010;50;40698
+"126";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2011;47;36959
+"127";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2012;46;32100
+"128";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2013;33;20210
+"129";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2014;39;25896
+"130";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2015;86;22425
+"131";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2016;192;41632
+"132";"Investitor - SKUPAJ";"Koroška";"Nestanovanjske stavbe";2017;150;57807
+"133";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2007;752;462484
+"134";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2008;749;281115
+"135";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2009;571;253084
+"136";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2010;538;241779
+"137";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2011;482;169282
+"138";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2012;429;165613
+"139";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2013;438;138764
+"140";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2014;364;102104
+"141";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2015;666;142144
+"142";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2016;982;213831
+"143";"Investitor - SKUPAJ";"Savinjska";"Tip stavbe - SKUPAJ";2017;976;204284
+"144";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2007;592;210803
+"145";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2008;598;160528
+"146";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2009;463;163361
+"147";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2010;416;133570
+"148";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2011;372;106146
+"149";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2012;334;112377
+"150";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2013;332;77033
+"151";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2014;284;66333
+"152";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2015;309;68732
+"153";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2016;306;71924
+"154";"Investitor - SKUPAJ";"Savinjska";"Stanovanjske stavbe";2017;330;77191
+"155";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2007;160;251681
+"156";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2008;151;120587
+"157";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2009;108;89723
+"158";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2010;122;108209
+"159";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2011;110;63136
+"160";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2012;95;53236
+"161";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2013;106;61731
+"162";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2014;80;35771
+"163";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2015;357;73412
+"164";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2016;676;141907
+"165";"Investitor - SKUPAJ";"Savinjska";"Nestanovanjske stavbe";2017;646;127093
+"166";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2007;55;30768
+"167";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2008;44;16354
+"168";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2009;35;9691
+"169";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2010;37;37389
+"170";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2011;32;8057
+"171";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2012;30;9006
+"172";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2013;40;13963
+"173";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2014;29;6785
+"174";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2015;92;21799
+"175";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2016;90;17721
+"176";"Investitor - SKUPAJ";"Zasavska";"Tip stavbe - SKUPAJ";2017;61;23048
+"177";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2007;39;12279
+"178";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2008;37;11291
+"179";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2009;25;6489
+"180";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2010;19;30093
+"181";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2011;24;6741
+"182";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2012;25;7646
+"183";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2013;23;6582
+"184";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2014;26;6389
+"185";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2015;44;16146
+"186";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2016;39;9550
+"187";"Investitor - SKUPAJ";"Zasavska";"Stanovanjske stavbe";2017;37;8918
+"188";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2007;16;18489
+"189";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2008;7;5063
+"190";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2009;10;3202
+"191";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2010;18;7296
+"192";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2011;8;1316
+"193";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2012;5;1360
+"194";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2013;17;7381
+"195";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2014;3;396
+"196";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2015;48;5653
+"197";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2016;51;8171
+"198";"Investitor - SKUPAJ";"Zasavska";"Nestanovanjske stavbe";2017;24;14130
+"199";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2007;230;77415
+"200";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2008;303;100488
+"201";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2009;261;99502
+"202";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2010;220;51028
+"203";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2011;188;45499
+"204";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2012;135;33338
+"205";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2013;144;35792
+"206";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2014;176;47511
+"207";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2015;412;60721
+"208";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2016;475;76716
+"209";"Investitor - SKUPAJ";"Posavska";"Tip stavbe - SKUPAJ";2017;429;75829
+"210";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2007;130;45231
+"211";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2008;190;51460
+"212";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2009;153;40069
+"213";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2010;129;31860
+"214";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2011;90;23340
+"215";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2012;80;19082
+"216";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2013;94;25093
+"217";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2014;122;29467
+"218";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2015;110;25760
+"219";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2016;111;25978
+"220";"Investitor - SKUPAJ";"Posavska";"Stanovanjske stavbe";2017;112;26397
+"221";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2007;100;32184
+"222";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2008;113;49028
+"223";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2009;108;59433
+"224";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2010;91;19168
+"225";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2011;98;22159
+"226";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2012;55;14256
+"227";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2013;50;10699
+"228";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2014;54;18044
+"229";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2015;302;34961
+"230";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2016;364;50738
+"231";"Investitor - SKUPAJ";"Posavska";"Nestanovanjske stavbe";2017;317;49432
+"232";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2007;507;182847
+"233";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2008;397;108663
+"234";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2009;339;103148
+"235";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2010;383;118609
+"236";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2011;414;126847
+"237";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2012;384;140539
+"238";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2013;381;118505
+"239";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2014;452;135572
+"240";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2015;770;147978
+"241";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2016;751;160314
+"242";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Tip stavbe - SKUPAJ";2017;808;197275
+"243";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2007;342;120912
+"244";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2008;235;63541
+"245";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2009;194;59284
+"246";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2010;200;51819
+"247";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2011;214;59420
+"248";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2012;234;61377
+"249";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2013;215;57251
+"250";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2014;261;65021
+"251";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2015;276;66809
+"252";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2016;204;56669
+"253";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Stanovanjske stavbe";2017;227;55232
+"254";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2007;165;61935
+"255";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2008;162;45122
+"256";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2009;145;43864
+"257";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2010;183;66790
+"258";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2011;200;67427
+"259";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2012;150;79162
+"260";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2013;166;61254
+"261";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2014;191;70551
+"262";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2015;494;81169
+"263";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2016;547;103645
+"264";"Investitor - SKUPAJ";"Jugovzhodna Slovenija";"Nestanovanjske stavbe";2017;581;142043
+"265";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2007;1180;959201
+"266";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2008;1014;624277
+"267";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2009;906;545754
+"268";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2010;681;579762
+"269";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2011;633;364141
+"270";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2012;629;244228
+"271";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2013;718;343689
+"272";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2014;587;217703
+"273";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2015;499;168995
+"274";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2016;948;287770
+"275";"Investitor - SKUPAJ";"Osrednjeslovenska";"Tip stavbe - SKUPAJ";2017;946;349742
+"276";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2007;1037;621476
+"277";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2008;879;449282
+"278";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2009;786;321241
+"279";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2010;558;373385
+"280";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2011;532;155159
+"281";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2012;521;133788
+"282";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2013;598;212457
+"283";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2014;501;138100
+"284";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2015;404;107813
+"285";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2016;616;158208
+"286";"Investitor - SKUPAJ";"Osrednjeslovenska";"Stanovanjske stavbe";2017;587;190917
+"287";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2007;143;337725
+"288";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2008;135;174995
+"289";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2009;120;224513
+"290";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2010;123;206377
+"291";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2011;101;208982
+"292";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2012;108;110440
+"293";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2013;120;131232
+"294";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2014;86;79603
+"295";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2015;95;61182
+"296";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2016;332;129562
+"297";"Investitor - SKUPAJ";"Osrednjeslovenska";"Nestanovanjske stavbe";2017;359;158825
+"298";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2007;595;401129
+"299";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2008;525;303135
+"300";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2009;496;249415
+"301";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2010;307;147495
+"302";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2011;312;143862
+"303";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2012;303;148549
+"304";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2013;279;126338
+"305";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2014;225;81936
+"306";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2015;292;98817
+"307";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2016;381;137200
+"308";"Investitor - SKUPAJ";"Gorenjska";"Tip stavbe - SKUPAJ";2017;385;157651
+"309";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2007;485;216816
+"310";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2008;421;175662
+"311";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2009;414;154478
+"312";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2010;232;96683
+"313";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2011;242;74643
+"314";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2012;246;93252
+"315";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2013;222;65643
+"316";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2014;184;49845
+"317";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2015;219;57548
+"318";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2016;218;70614
+"319";"Investitor - SKUPAJ";"Gorenjska";"Stanovanjske stavbe";2017;229;61618
+"320";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2007;110;184313
+"321";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2008;104;127473
+"322";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2009;82;94937
+"323";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2010;75;50812
+"324";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2011;70;69219
+"325";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2012;57;55297
+"326";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2013;57;60695
+"327";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2014;41;32091
+"328";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2015;73;41269
+"329";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2016;163;66586
+"330";"Investitor - SKUPAJ";"Gorenjska";"Nestanovanjske stavbe";2017;156;96033
+"331";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2007;179;104408
+"332";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2008;160;99690
+"333";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2009;171;66010
+"334";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2010;152;69626
+"335";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2011;98;45415
+"336";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2012;97;60716
+"337";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2013;83;40231
+"338";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2014;89;28661
+"339";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2015;195;49423
+"340";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2016;232;49965
+"341";"Investitor - SKUPAJ";"Primorsko-notranjska";"Tip stavbe - SKUPAJ";2017;209;47660
+"342";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2007;128;68391
+"343";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2008;116;33571
+"344";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2009;129;38000
+"345";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2010;122;40665
+"346";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2011;71;17958
+"347";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2012;74;21578
+"348";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2013;54;14026
+"349";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2014;53;12574
+"350";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2015;82;22085
+"351";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2016;65;16460
+"352";"Investitor - SKUPAJ";"Primorsko-notranjska";"Stanovanjske stavbe";2017;52;12259
+"353";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2007;51;36017
+"354";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2008;44;66119
+"355";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2009;42;28010
+"356";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2010;30;28961
+"357";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2011;27;27457
+"358";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2012;23;39138
+"359";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2013;29;26205
+"360";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2014;36;16087
+"361";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2015;113;27338
+"362";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2016;167;33505
+"363";"Investitor - SKUPAJ";"Primorsko-notranjska";"Nestanovanjske stavbe";2017;157;35401
+"364";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2007;342;163149
+"365";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2008;332;249596
+"366";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2009;333;186817
+"367";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2010;236;105471
+"368";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2011;253;132749
+"369";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2012;217;100212
+"370";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2013;258;87973
+"371";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2014;210;65252
+"372";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2015;453;94712
+"373";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2016;430;109471
+"374";"Investitor - SKUPAJ";"Goriška";"Tip stavbe - SKUPAJ";2017;357;95307
+"375";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2007;245;92342
+"376";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2008;255;123956
+"377";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2009;237;90885
+"378";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2010;170;58420
+"379";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2011;165;60200
+"380";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2012;160;47770
+"381";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2013;184;51904
+"382";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2014;151;44177
+"383";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2015;180;49903
+"384";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2016;131;38624
+"385";"Investitor - SKUPAJ";"Goriška";"Stanovanjske stavbe";2017;122;36442
+"386";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2007;97;70807
+"387";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2008;77;125640
+"388";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2009;96;95932
+"389";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2010;66;47051
+"390";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2011;88;72549
+"391";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2012;57;52442
+"392";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2013;74;36069
+"393";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2014;59;21075
+"394";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2015;273;44809
+"395";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2016;299;70847
+"396";"Investitor - SKUPAJ";"Goriška";"Nestanovanjske stavbe";2017;235;58865
+"397";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2007;361;215637
+"398";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2008;282;201787
+"399";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2009;244;112007
+"400";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2010;173;180300
+"401";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2011;145;136399
+"402";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2012;107;42910
+"403";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2013;114;31133
+"404";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2014;80;31863
+"405";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2015;133;50049
+"406";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2016;188;53680
+"407";"Investitor - SKUPAJ";"Obalno-kraška";"Tip stavbe - SKUPAJ";2017;211;67457
+"408";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2007;305;148318
+"409";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2008;240;135965
+"410";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2009;217;61146
+"411";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2010;142;65096
+"412";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2011;130;60583
+"413";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2012;91;26663
+"414";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2013;99;25739
+"415";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2014;69;24887
+"416";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2015;117;41802
+"417";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2016;106;27181
+"418";"Investitor - SKUPAJ";"Obalno-kraška";"Stanovanjske stavbe";2017;112;30620
+"419";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2007;56;67319
+"420";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2008;42;65822
+"421";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2009;27;50861
+"422";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2010;31;115204
+"423";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2011;15;75816
+"424";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2012;16;16247
+"425";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2013;15;5394
+"426";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2014;11;6976
+"427";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2015;16;8247
+"428";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2016;82;26499
+"429";"Investitor - SKUPAJ";"Obalno-kraška";"Nestanovanjske stavbe";2017;99;36837
