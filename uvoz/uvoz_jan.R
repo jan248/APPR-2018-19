@@ -37,7 +37,8 @@ krim.obcine <- krim.obcine %>% fill(1:2) %>% filter(Leto != ' ')
 # 7.tabela: izobrazba po obcinah
 izob.obcine <- read.csv2(file = 'podatki/Izobrazba_po_obcinah.csv', fileEncoding = 'Windows-1250', header = TRUE,
                          skip = 1, nrows = 11290, sep = ';', dec = '.', na = c('', '-', ' ') )
-izob.obcine <- izob.obcine %>% fill(1:2) %>% filter(Spol != ' ')
+izob.obcine <- izob.obcine %>% fill(1:2) %>% filter(Spol != ' ') %>% filter(Izobrazba...SKUPAJ != '') 
+izobr.obcine <- izob.obcine%>%filter(Občine != 'SLOVENIJA') %>% filter(Spol == 'Spol - SKUPAJ') 
 
 # 8.tabela: povprecne mesecne place po obcinah
 povp.mes.place.obcine <- read.csv2(file = 'podatki/Povprečne_mesečne_plače_po_občinah.csv', fileEncoding = 'Windows-1250', header = TRUE,
@@ -57,6 +58,8 @@ vred.opr.grad.del <- vred.opr.grad.del %>% fill(1:2) %>% filter(Leto != ' ')
 grad.dovol.stavb <- read.csv2(file = 'podatki/Gradbena_dovoljenja_vrsta_stavbe.csv', fileEncoding = 'Windows-1250', header = TRUE,
                                skip = 3, nrows = 483, sep = ';', dec = '.', na = c('', '-', ' ') )
 grad.dovol.stavb <- grad.dovol.stavb %>% fill(1:3) %>% filter(Leto != ' ')
+grad.dovol.regije <- grad.dovol.stavb %>%filter(Regija != 'SLOVENIJA') %>%filter(Tip.objekta == 'Tip stavbe - SKUPAJ')
+
 
 write.csv2(prenas.stanovanj,'podatki/tidy_prenas_stanovanj.csv', fileEncoding = 'UTF-8')
 write.csv2(grad.dovol.stat.reg,'podatki/tidy_grad_dovol_stat_reg.csv', fileEncoding = 'UTF-8')
