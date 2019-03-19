@@ -1,0 +1,575 @@
+Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost;;;;;
+in stanovanja v njih po: STATISTIÈNA REGIJA, LETO, INVESTITOR, TIP;;;;;
+STAVBE , MERITVE;;;;;
+;;;;;
+Pomurska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];149269
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];117612
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];142369
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];108583
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];70741
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];62159
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];115672
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];69706
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];111508
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];146499
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];140070
+Podravska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];560410
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];435642
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];252361
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];269957
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];310127
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];190855
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];206751
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];172185
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];191332
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];288524
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];269103
+Koroška;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];104069
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];117976
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];69749
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];65067
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];58100
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];53041
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];41652
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];48359
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];37351
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];57950
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];74628
+Savinjska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];462484
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];281115
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];253084
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];241779
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];169282
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];165613
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];138764
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];102104
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];142144
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];213831
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];204284
+Zasavska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];30768
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];16354
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];9691
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];37389
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];8057
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];9006
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];13963
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];6785
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];21799
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];17721
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];23048
+Posavska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];77415
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];100488
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];99502
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];51028
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];45499
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];33338
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];35792
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];47511
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];60721
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];76716
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];75829
+Jugovzhodna Slovenija;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];182847
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];108663
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];103148
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];118609
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];126847
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];140539
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];118505
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];135572
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];147978
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];160314
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];197275
+Osrednjeslovenska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];959201
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];624277
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];545754
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];579762
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];364141
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];244228
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];343689
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];217703
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];168995
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];287770
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];349742
+Gorenjska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];401129
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];303135
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];249415
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];147495
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];143862
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];148549
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];126338
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];81936
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];98817
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];137200
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];157651
+Primorsko-notranjska;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];104408
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];99690
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];66010
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];69626
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];45415
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];60716
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];40231
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];28661
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];49423
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];49965
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];47660
+Goriška;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];163149
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];249596
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];186817
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];105471
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];132749
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];100212
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];87973
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];65252
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];94712
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];109471
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];95307
+Obalno-kraška;;;;;
+ ;2007;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];215637
+ ;2008;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];201787
+ ;2009;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];112007
+ ;2010;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];180300
+ ;2011;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];136399
+ ;2012;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];42910
+ ;2013;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];31133
+ ;2014;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];31863
+ ;2015;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];50049
+ ;2016;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];53680
+ ;2017;;;;
+ ; ;Investitor - SKUPAJ;;;
+ ; ; ;Tip stavbe - SKUPAJ;;
+ ; ; ; ;Površina stavb      [m2];67457
+;;;;;
+Od leta 2015 spremljamo tudi izdana gradbena dovoljenja za ;;;;;
+nestanovanjske stavbe, ki se uvršèajo med nezahtevne objekte. ;;;;;
+ ;;;;;
+Vir: Statistièni urad Republike Slovenije.;;;;;
+;;;;;
+Povezane vsebine: ;;;;;
+- (seznam HREF= ;;;;;
+http://www.stat.si/StatWeb/Common/PrikaziDokument.ashx?IdDatoteke=8218;;;;;
+target=_blank) Metodološka pojasnila;;;;;
+;;;;;
+Podatki so teritorialno razvršèeni po uredbi o Standardni ;;;;;
+klasifikaciji teritorialnih enot [(seznam ;;;;;
+HREF=../database/Meta/Klas/SKTE.htm TARGET=_blank) opis in ;;;;;
+pojasnila], raven SKTE 3. ;;;;;
+Opombe o spremembah posameznih regij so zapisane k vsaki spremenjeni ;;;;;
+regiji in so ob izpisu tabele na zaslon dostopne s klikom na ikono za ;;;;;
+opombe [zvezdica]. V opombah je na zaèetku naveden datum, s katerim ;;;;;
+je opisana teritorialna sprememba upoštevana pri teritorialnem ;;;;;
+razvršèanju enot za statistiène namene. ;;;;;
+ ;;;;;
+;;;;;
+Podatki so teritorialno razvršèeni po Klasifikaciji statistiènih ;;;;;
+teritorialnih enot v Evropski uniji [The Classification  of ;;;;;
+Territorial Units for Statistics] – NUTS [(seznam ;;;;;
+HREF=../database/Meta/Klas/NUTS.htm TARGET=_blank) opis in ;;;;;
+pojasnila], raven NUTS 3.Opombe o spremembah posameznih regij so ;;;;;
+zapisane k vsaki spremenjeni regiji in so ob izpisu tabele na zaslon ;;;;;
+dostopne s klikom na ikono za opombe [zvezdica]. V opombah je na ;;;;;
+zaèetku naveden datum, s katerim je opisana teritorialna sprememba ;;;;;
+upoštevana pri teritorialnem razvršèanju enot za statistiène namene.;;;;;

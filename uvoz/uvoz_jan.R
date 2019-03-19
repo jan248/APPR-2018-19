@@ -24,25 +24,6 @@ ocena.dokon.stavb <- read.csv2(file = 'podatki/Ocena_dokoncanih_stavb.csv', file
                                    skip = 3, nrows = 69,sep = ';', dec = '.', na = c('', '-', ' ', '...') )
 ocena.dokon.stavb <- ocena.dokon.stavb %>% fill(1:3) %>% filter(Leto != ' ')
 
-# 5.tabela: ocena dokoncanih stavb obcine
-ocena.dokon.stavb.obcine <- read.csv2(file = 'podatki/Ocena_dokoncanih_stavb_obcine.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                                   skip = 2, nrows = 3621, sep = ';', dec = '.', na = c('', '-', ' ') )
-ocena.dokon.stavb.obcine <- ocena.dokon.stavb.obcine %>% fill(1:2) %>% filter(Leto != ' ')
-
-# 6.tabela: kriminaliteta po obcinah
-krim.obcine <- read.csv2(file = 'podatki/Kriminaliteta_po_obcinah.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                         skip = 2, nrows = 2568, sep = ';', dec = '.', na = c('', '-', ' ') )
-krim.obcine <- krim.obcine %>% fill(1:2) %>% filter(Leto != ' ')
-
-# 7.tabela: izobrazba po obcinah
-izob.obcine <- read.csv2(file = 'podatki/Izobrazba_po_obcinah.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                         skip = 1, nrows = 11290, sep = ';', dec = '.', na = c('', '-', ' ') )
-izob.obcine <- izob.obcine %>% fill(1:2) %>% filter(Spol != ' ') %>% filter(Izobrazba...SKUPAJ != '') 
-izobr.obcine <- izob.obcine%>%filter(Občine != 'SLOVENIJA') %>% filter(Spol == 'Spol - SKUPAJ') 
-
-# 8.tabela: povprecne mesecne place po obcinah
-povp.mes.place.obcine <- read.csv2(file = 'podatki/Povprečne_mesečne_plače_po_občinah.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                         skip = 3, nrows = 213, sep = ';', dec = '.', na = c('', '-', ' ') )
 
 # 9.tabela: prenaseljenost stanovanj
 prenas.stanovanj <- read.csv2(file = 'podatki/Prenaseljenost stanovanj.csv', fileEncoding = 'Windows-1250', header = TRUE,
@@ -61,15 +42,109 @@ grad.dovol.stavb <- grad.dovol.stavb %>% fill(1:3) %>% filter(Leto != ' ')
 grad.dovol.regije <- grad.dovol.stavb %>%filter(Regija != 'SLOVENIJA') %>%filter(Tip.objekta == 'Tip stavbe - SKUPAJ')
 
 
+# 12. tabela: gradbena dovoljenja po regijah površina stavb
+grad.dovol.povrsina <- read.csv2(file = 'podatki/Grad_dovol_povrsina.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                          skip = 3, nrows = 543, sep = ';', dec = '.', na = c('', '-', ' ') )
+grad.dovol.povrsina <- grad.dovol.povrsina[c(-3:-5)]
+colnames(grad.dovol.povrsina)<-c('Regija','Leto','Povrsina')
+grad.dovol.povrsina <- grad.dovol.povrsina %>% fill(1:2) %>% filter(Povrsina != ' ')
+
+# 13. tabela: gradbena dovoljenja po regijah število stavb
+grad.dovol.st.stavb <- read.csv2(file = 'podatki/Grad_dovoljenje_st_stavb.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                                 skip = 3, nrows = 540, sep = ';', dec = '.', na = c('', '-', ' ') )
+grad.dovol.st.stavb <- grad.dovol.st.stavb[c(-3:-5)]
+colnames(grad.dovol.st.stavb)<-c('Regija','Leto','Stevilo.stavb')
+grad.dovol.st.stavb <- grad.dovol.st.stavb %>% fill(1:2) %>% filter(Stevilo.stavb != ' ')
+
+# 14. tabela: indeksi stroškov
+indeksi.stroskov <- read.csv2(file = 'podatki/Indeksi_stroskov.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                                 skip = 1, nrows = 152, sep = ';', dec = '.', na = c('', '-', ' ') )
+indeksi.stroskov <- indeksi.stroskov[c(-2)]
+colnames(indeksi.stroskov)<-c('Leto','Indeksi.stroskov')
+indeksi.stroskov <- indeksi.stroskov %>% fill(1:2) %>% filter(Indeksi.stroskov != ' ')
+
+
+# 15. tabela: živorojeni po regijah
+zivorojeni.reg <- read.csv2(file = 'podatki/Zivorojeni_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                              skip = 2, nrows = 204, sep = ';', dec = '.', na = c('', '-', ' ') )
+colnames(zivorojeni.reg)<-c('Regija','Leto','Stevilo')
+zivorojeni.reg <- zivorojeni.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+
+# 16. tabela: prebivalstvo po regijah
+preb.reg <- read.csv2(file = 'podatki/Prebivalstvo_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                              skip = 2, nrows = 469, sep = ';', dec = '.', na = c('', '-', ' ') )
+preb.reg <- preb.reg[c(-1,-4)]
+colnames(preb.reg)<-c('Regija','Leto','Stevilo')
+preb.reg <- preb.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+# 17. tabela: prisotnost kriminala po regijah
+krim.regije <- read.csv2(file = 'podatki/Prisotnost_kriminala_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                              skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+krim.regije <- krim.regije[c(-3)]
+colnames(krim.regije)<-c('Regija','Leto','Stevilo')
+krim.regije <- krim.regije %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+# 18. tabela: onesnaženost okolja po regijah
+ones.reg <- read.csv2(file = 'podatki/Onesnazenost_okolja_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                         skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+ones.reg <- ones.reg[c(-3)]
+colnames(ones.reg)<-c('Regija','Leto','Stevilo')
+ones.reg <- ones.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+
+# 19. tabela: težave s hrupom po regijah
+hrup.reg <- read.csv2(file = 'podatki/Tezave_s_hrupom_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+hrup.reg <- hrup.reg[c(-3)]
+colnames(hrup.reg)<-c('Regija','Leto','Stevilo')
+hrup.reg <- hrup.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+# 20. tabela: premalo svetlobe po regijah
+svet.reg <- read.csv2(file = 'podatki/Premalo_svetlobe_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+svet.reg <- svet.reg[c(-3)]
+colnames(svet.reg)<-c('Regija','Leto','Stevilo')
+svet.reg <- svet.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+# 21. tabela: ni primernega ogrevanja po regijah
+ogrev.reg <- read.csv2(file = 'podatki/Ni_primernega_ogrevanja_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+ogrev.reg <- ogrev.reg[c(-3)]
+colnames(ogrev.reg)<-c('Regija','Leto','Stevilo')
+ogrev.reg <- ogrev.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+# 22. tabela: slabo stanje stanovanj po regijah
+slab.stan.reg <- read.csv2(file = 'podatki/Slabo_stanje_stanovanj_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+slab.stan.reg <- slab.stan.reg[c(-3)]
+colnames(slab.stan.reg)<-c('Regija','Leto','Stevilo')
+slab.stan.reg <- slab.stan.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
+
+
+# 23. tabela: dokončana stanovanja v Sloveniji
+dokon.stan.slo <- read.csv2(file = 'podatki/Dokoncana_stanovanja_slo.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                           skip = 6, nrows = 10, sep = ';', dec = '.', na = c('', '-', ' ') )
+dokon.stan.slo <- dokon.stan.slo[c(-1:-4)]
+colnames(dokon.stan.slo)<-c('Leto','Stevilo')
+
+
+
+
+
+
+
+
+
+
 write.csv2(prenas.stanovanj,'podatki/tidy_prenas_stanovanj.csv', fileEncoding = 'UTF-8')
 write.csv2(grad.dovol.stat.reg,'podatki/tidy_grad_dovol_stat_reg.csv', fileEncoding = 'UTF-8')
 write.csv2(grad.dovol.stavb,'podatki/tidy_grad_dovol_stavb.csv', fileEncoding = 'UTF-8')
-write.csv2(izob.obcine,'podatki/tidy_izob_obcine.csv', fileEncoding = 'UTF-8')
-write.csv2(krim.obcine,'podatki/tidy_krim_obcine.csv', fileEncoding = 'UTF-8')
+
 write.csv2(ocena.dokon.stavb,'podatki/tidy_ocena_dokon_stavb.csv', fileEncoding = 'UTF-8')
-write.csv2(ocena.dokon.stavb.obcine,'podatki/tidy_ocena_dokon_stavb_obcine.csv', fileEncoding = 'UTF-8')
+
 write.csv2(ocena.stanovanj.gradnja,'podatki/tidy_ocena_stanovanj_gradnja.csv', fileEncoding = 'UTF-8')
-write.csv2(povp.mes.place.obcine,'podatki/tidy_povp_mes_place_obcine.csv', fileEncoding = 'UTF-8')
+
 write.csv2(stanovanjski.standard,'podatki/tidy_stanovanjski_standard.csv', fileEncoding = 'UTF-8')
 write.csv2(vred.opr.grad.del,'podatki/tidy_vred_opr_grad_del.csv', fileEncoding = 'UTF-8')
 

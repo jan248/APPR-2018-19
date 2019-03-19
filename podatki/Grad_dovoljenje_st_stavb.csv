@@ -1,0 +1,575 @@
+Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost;;;;;
+in stanovanja v njih po: STATISTIÈNA REGIJA, LETO, TIP STAVBE,;;;;;
+INVESTITOR , MERITVE;;;;;
+;;;;;
+Pomurska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;390
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;381
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;363
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;349
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;269
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;230
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;258
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;239
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;616
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;762
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;804
+Podravska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;1081
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;1013
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;724
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;687
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;674
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;515
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;622
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;590
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;777
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;1308
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;1295
+Koroška;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;186
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;173
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;127
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;139
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;121
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;129
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;108
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;125
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;149
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;262
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;223
+Savinjska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;752
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;749
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;571
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;538
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;482
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;429
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;438
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;364
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;666
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;982
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;976
+Zasavska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;55
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;44
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;35
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;37
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;32
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;30
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;40
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;29
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;92
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;90
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;61
+Posavska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;230
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;303
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;261
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;220
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;188
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;135
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;144
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;176
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;412
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;475
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;429
+Jugovzhodna Slovenija;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;507
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;397
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;339
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;383
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;414
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;384
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;381
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;452
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;770
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;751
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;808
+Osrednjeslovenska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;1180
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;1014
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;906
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;681
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;633
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;629
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;718
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;587
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;499
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;948
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;946
+Gorenjska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;595
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;525
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;496
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;307
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;312
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;303
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;279
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;225
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;292
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;381
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;385
+Primorsko-notranjska;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;179
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;160
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;171
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;152
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;98
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;97
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;83
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;89
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;195
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;232
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;209
+Goriška;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;342
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;332
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;333
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;236
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;253
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;217
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;258
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;210
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;453
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;430
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;357
+Obalno-kraška;;;;;
+ ;2007;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;361
+ ;2008;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;282
+ ;2009;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;244
+ ;2010;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;173
+ ;2011;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;145
+ ;2012;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;107
+ ;2013;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;114
+ ;2014;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;80
+ ;2015;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;133
+ ;2016;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;188
+ ;2017;;;;
+ ; ;Tip stavbe - SKUPAJ;;;
+ ; ; ;Investitor - SKUPAJ;;
+ ; ; ; ;Število stavb;211
+;;;;;
+Od leta 2015 spremljamo tudi izdana gradbena dovoljenja za ;;;;;
+nestanovanjske stavbe, ki se uvršèajo med nezahtevne objekte. ;;;;;
+ ;;;;;
+Vir: Statistièni urad Republike Slovenije.;;;;;
+;;;;;
+Povezane vsebine: ;;;;;
+- (seznam HREF= ;;;;;
+http://www.stat.si/StatWeb/Common/PrikaziDokument.ashx?IdDatoteke=8218;;;;;
+target=_blank) Metodološka pojasnila;;;;;
+;;;;;
+Podatki so teritorialno razvršèeni po uredbi o Standardni ;;;;;
+klasifikaciji teritorialnih enot [(seznam ;;;;;
+HREF=../database/Meta/Klas/SKTE.htm TARGET=_blank) opis in ;;;;;
+pojasnila], raven SKTE 3. ;;;;;
+Opombe o spremembah posameznih regij so zapisane k vsaki spremenjeni ;;;;;
+regiji in so ob izpisu tabele na zaslon dostopne s klikom na ikono za ;;;;;
+opombe [zvezdica]. V opombah je na zaèetku naveden datum, s katerim ;;;;;
+je opisana teritorialna sprememba upoštevana pri teritorialnem ;;;;;
+razvršèanju enot za statistiène namene. ;;;;;
+ ;;;;;
+;;;;;
+Podatki so teritorialno razvršèeni po Klasifikaciji statistiènih ;;;;;
+teritorialnih enot v Evropski uniji [The Classification  of ;;;;;
+Territorial Units for Statistics] – NUTS [(seznam ;;;;;
+HREF=../database/Meta/Klas/NUTS.htm TARGET=_blank) opis in ;;;;;
+pojasnila], raven NUTS 3.Opombe o spremembah posameznih regij so ;;;;;
+zapisane k vsaki spremenjeni regiji in so ob izpisu tabele na zaslon ;;;;;
+dostopne s klikom na ikono za opombe [zvezdica]. V opombah je na ;;;;;
+zaèetku naveden datum, s katerim je opisana teritorialna sprememba ;;;;;
+upoštevana pri teritorialnem razvršèanju enot za statistiène namene.;;;;;
