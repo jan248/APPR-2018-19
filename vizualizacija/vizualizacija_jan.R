@@ -5,6 +5,8 @@ library(rgdal)
 library(ggvis)
 library(mosaic)
 library(maptools)
+library(maditr)
+library(plotly)
 
 source('lib/uvozi.zemljevid.r')
 ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja%>%gather('Tip.stanovanja', 'Število', -Leto)
@@ -84,6 +86,54 @@ plot(graf.indeks.2011)
 plot(graf.indeks.2012)
 plot(graf.indeks.2015)
 plot(graf.indeks.2017)
+
+
+#clustri
+
+
+slabo.stanje <- dcast(slab.stan.reg, Regija~Leto, value.var = 'Stevilo')
+slabo.ogrevanje <- dcast(ogrev.reg, Regija~Leto, value.var = 'Stevilo')
+onesnazenost <- dcast(ones.reg, Regija~Leto, value.var = 'Stevilo')
+prisotnost.kriminala <- dcast(krim.regije, Regija~Leto, value.var = 'Stevilo')
+svetloba <- dcast(svet.reg, Regija~Leto, value.var = 'Stevilo')
+hrup <- dcast(hrup.reg, Regija~Leto, value.var = 'Stevilo')
+
+regije <- slabo.stanje
+regije <- left_join(regije, slabo.ogrevanje, by='Regija')
+regije <- left_join(regije, onesnazenost, by = 'Regija')
+regije <- left_join(regije, prisotnost.kriminala, by = 'Regija')
+regije <- left_join(regije, svetloba, by = 'Regija')
+regije <- left_join(regije, hrup, by = 'Regija')
+
+regije1 <- regije[,-1]
+fit<-hclust(dist(scale(regije1)))
+skupine2 <- cutree(fit, 4)
+
+cluster <- mutate(regije, skupine2)
+
+zemljevid_cluster <- ggplot() + 
+  geom_polygon(data = right_join(cluster[c(-2:-61)], Slovenija, by=c('Regija')), aes(x=long, y=lat, group = group, fill=factor(skupine2))) + 
+  geom_line() +
+  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank(), legend.position = 'none') + 
+  ggtitle('Slovenske regije po stanovanjskih razmerah')
+
+plot(zemljevid_cluster)
+
+
+
+grad.dovoljenja <- left_join(grad.dovol.povrsina, grad.dovol.st.stavb, by=c('Regija', 'Leto'))
+grad.dovol.povrsina1 <- transform(grad.dovoljenja, Povrsina1=(Povrsina / 10000 ))
+graf.grad.dovolj <- ggplot(data = grad.dovol.povrsina1, aes(x=Povrsina1, y=Stevilo.stavb, color=Regija)) + 
+  geom_point(aes(frame=Leto, ids=Regija)) + 
+  scale_x_log10() 
+
+
+graf.grad.dovolj <- graf.grad.dovolj + xlab('Površina v 10000 kvadratnih metrih') + ylab('Število stavb')
+graf.grad.dovolj <- ggplotly(graf.grad.dovolj)
+
+
+print(graf.grad.dovolj)
+
 
 
 
