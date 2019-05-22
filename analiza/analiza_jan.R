@@ -9,4 +9,4 @@ graf.napovedi <- ggplot(dokon.stan.slo, aes(x=Leto, y=Stevilo))+
   labs(title='Dokončana stanovanja v Sloveniji') + 
   scale_x_continuous('Leto', breaks = seq(2007, 2020, 1), limits = c(2007,2019))
 
-plot(graf.napovedi)
+

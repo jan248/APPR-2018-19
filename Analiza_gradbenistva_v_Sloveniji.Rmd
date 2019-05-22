@@ -1,30 +1,90 @@
 ---
 title: "Analiza gradbeništva v Sloveniji"
 author: "Jan Škoberne"
-date: "20 marec 2019"
+date: "14. maj 2019"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+source('lib/libraries.r', encoding='UTF-8')
+Sys.setlocale('LC_ALL', 'Slovenian')
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Uvod
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Izbral sem si temo gradbeništvo po Sloveniji. Analiziral bom gradbeništvo po regijah in ugotavljal kje je ta gospodarstvena panoga najbolj in najmanj aktivna. Primerjal bom oceno stanovanj in stavb po regijah, vrednost opravljenih gradbenih del, izdana gradbena dovoljenja po statističnih regijah in to primerjal z onesnaženostjo, svetlostjo, prenaseljenostjo stanovanj, hrupom ter kriminaliteto po teh statističnih regijah.
 
-```{r cars}
-summary(cars)
+
+Želim raziskati povezavo med gradnjo stanovanj in pripadajočih elementov z različnimi kategorijami, ki bi lahko na to vplivale in to primerjati po regijah. Zanima me tudi, kako so se te povezave spreminjale skozi leta in njihova kohezija.
+
+Podatke bom pridobil iz Statističnega urada Republike Slovenije.
+
+## Tabele
+
+1. tabela: leto, število dokončanih stavb
+2. tabela: leto, regija, površina, število stavb, investitor
+3. tabela: leto, regija, število dokončanih stavb na 1000 prebivalcev, povprečna površina dokončanih stanovanj, delež dokončanih
+4. tabela: regija, leto, indeks
+5. tabela: leto, indeksi stroškov
+6. tabela: leto, regija, kriminalna dejanja
+7. tabela: leto, regija, ocena števila dokončanih stanovanj
+8. tabela: leto, regija, število premalo ogrevanih
+9. tabela: leto, regija, število preveč onesnaženih stanovanj
+10. tabela: leto, regija, prebivalstvo
+11. tabela: leto, regija, število stanovanj v slabem stanju
+
+Iz teh tabel sem dobil večino podatkov za risanje grafov in drugih analitičnih orodij. Sem pa iz njih izpeljal še kakšno tabelo za lažjo in boljšo predstavitev podatkov.
+
+Vse tabele sem dobil iz Statističnega urada Republike Slovenije pod poglavje Gradbeništvo in tudi druga področja s katerimi sem primerjal podatke. [link](https://pxweb.stat.si/pxweb/Database/Ekonomsko/Ekonomsko.asp)
+
+
+
+## Gradnja in gradbena dovoljenja
+
+```{r vizualizacija, echo=FALSE, message=FALSE, results='hide', warning=FALSE}
+source('vizualizacija/viz_jan.r', encoding = 'UTF-8')
+source('uvoz/uvozitev.r', encoding = 'UTF-8')
+
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r graf.gradbena.dovoljenja.regije, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=7, fig.cap='Graf gradbenih dovoljenj po regijah'}
+plot(graf.gradbena.dovoljenja.regije)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Na grafu vidimo kako so je spreminjalo število gradbenih dovoljenj po regijah. Vidimo da je v letu 2017 največ grabenih dovoljenj bilo izdanih v podravski regiji in najmanj zasavski.
+
+```{r graf.ocena.stanovanj.gradnja, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=7, fig.cap='Graf ocen gradbenih stanovanj v gradnji'}
+plot(graf.ocena.stanovanj.gradnja)
+```
+
+Iz grafa vidimo, da se je po krizi število stanovanj v gradnji zmanjšalo. Najstrmejši padec je bil takoj po krizi v letu 2009, zadnja leta pa lahko opazimo, da se trend izboljšuje in se gradnja malo povečuje.
+
+```{r graf.indeks.2010, graf.indeks.2011, graf.indeks.2012, graf.indeks.2015,graf.indeks.2017,  echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=5}
+plot(graf.indeks.2010)
+
+```
+
+Na zemljevidih vidimo, kako se je spreminjal indeks, torej število dokončanih stanovanj na 1000 prebivalcev glede na posamezno regijo. Opazimo, da je bil največji indeks v posavski in pomurski regiji. Najmanjši indeks je v notranjski regiji, kar preseneča saj velja splošno prepričanje, da se v Ljubljani največ gradi.
+
+```{r zemljevid_cluster, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=7, fig.width=10}
+plot(zemljevid_cluster)
+```
+
+Primerjal sem posamezne regije in iskal podobnosti in razlike. Iz Statističnega urada Republike Slovenije sem dobil podatke o onesnaženosti stanovanj, prisotnosti kriminala v regiji, svetlobni in hrupni ustreznosti stanovanja in ogrevanju. Na zemljevidu opazim, da se notranjska regija razlikuje od vseh in prav tako primorska regija. Podobne regije glede na razmere pa so Gorenjska, Koroška in Spodnjeposavska. Podobne so si tudi Goriška, Notranjsko-Kraška, Jugovzhodna Slovenija, Savinjska, Podravska in Pomurska.
+
+```{r graf.grad.dovolj, fig.cap='Projekcija regij', echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center'}
+graf.grad.dovolj
+```
+
+Vidimo spreminjanje števila stavb glede na površino v 10000 kvadratnih metrih in leta ter regije. Opazim veliko zmanjšanje števila stavb po krizi, ki se nadaljuje vse do 2014, kjer prvič opazimo izboljšanje razmer. Obeti za prihodnost  so po mojih ocenah dobri, saj je v zadnjih letih prišlo do občutnega izboljšanja na trgu gradbeništva.
+
+## Zaključek
+
+Iz analize gradbeništva vidimo, da je kriza močno pretresla ta sektor, vendar v zadjih letih opazimo izboljšanje. Opazimo več gradnje stanovanj v jugovzhodni Sloveniji in pomurski regiji. Zanimivo je, da se je v osrednji Sloveniji gradilo manj od ostalih regij, kar sam nisem pričakoval. 
+
+
+
+

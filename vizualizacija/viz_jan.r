@@ -9,6 +9,16 @@ library(maditr)
 library(plotly)
 source('lib/libraries.r')
 source('lib/uvozi.zemljevid.r')
+
+
+# 2.tabela: stanovanja v gradnji
+ocena.stanovanj.gradnja <- read.csv2(file = 'podatki/Ocena_stanovanj_v_gradnji.csv', fileEncoding = 'Windows-1250', header = FALSE,
+                                     skip = 4, nrows = 11, na = c('', '-', ' '), sep = ';', dec = '.',
+                                     col.names = c('oaknfoans','Leto','Stanovanja v gradnji - SKUPAJ','Stanovanja v gradnji - z začetkom gradnje v letu','Stanovanja v gradnji ob koncu leta','Dokončana stanovanja - SKUPAJ
+                                                   ','Dokončana stanovanja - investitor pravna oseba','Dokončana stanovanja - investitor fizična oseba','Dokončana stanovanja na 1000 prebivalcev','baifba'))
+ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja[,-1]
+ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja[,-9]
+ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja%>% filter(Leto != ' ')
 ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja%>%gather('Tip.stanovanja', 'Število', -Leto)
 ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja1%>%filter(Tip.stanovanja != 'Stanovanja.v.gradnji...SKUPAJ')%>%filter(Tip.stanovanja != 'Dokončana.stanovanja...SKUPAJ.')%>%filter(Tip.stanovanja != 'Dokončana.stanovanja.na.1000.prebivalcev')
 
@@ -80,7 +90,7 @@ graf.indeks.2017 <- ggplot() + geom_polygon(data = right_join(Slovenija, indeks.
   theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank()) + 
   labs(title = 'Število dokončanih stanovanj na 1000 prebivalcev po regijah Slovenije v letu 2017')
 
-  
+
 plot(graf.indeks.2010)
 plot(graf.indeks.2011)
 plot(graf.indeks.2012)
