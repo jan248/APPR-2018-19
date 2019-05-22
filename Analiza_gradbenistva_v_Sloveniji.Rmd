@@ -44,8 +44,9 @@ Vse tabele sem dobil iz Statističnega urada Republike Slovenije pod poglavje Gr
 ## Gradnja in gradbena dovoljenja
 
 ```{r vizualizacija, echo=FALSE, message=FALSE, results='hide', warning=FALSE}
-source('vizualizacija/viz_jan.r', encoding = 'UTF-8')
 source('uvoz/uvozitev.r', encoding = 'UTF-8')
+source('vizualizacija/viz_jan.r', encoding = 'UTF-8')
+
 
 ```
 
@@ -64,6 +65,9 @@ Iz grafa vidimo, da se je po krizi število stanovanj v gradnji zmanjšalo. Najs
 
 ```{r graf.indeks.2010, graf.indeks.2011, graf.indeks.2012, graf.indeks.2015,graf.indeks.2017,  echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=5}
 plot(graf.indeks.2010)
+plot(graf.indeks.2012)
+plot(graf.indeks.2015)
+plot(graf.indeks.2017)
 
 ```
 

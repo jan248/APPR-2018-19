@@ -14,6 +14,11 @@ ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja[,-1]
 ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja[,-9]
 ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja%>% filter(Leto != ' ')
 
+ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja%>%gather('Tip.stanovanja', 'Število', -Leto)
+ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja1%>%filter(Tip.stanovanja != 'Stanovanja.v.gradnji...SKUPAJ')%>%filter(Tip.stanovanja != 'Dokončana.stanovanja...SKUPAJ.')%>%filter(Tip.stanovanja != 'Dokončana.stanovanja.na.1000.prebivalcev')
+
+
+
 # 3. tabela: gradbena dovoljenja po statisticnih regijah
 grad.dovol.stat.reg <- read.csv2(file = 'podatki/Gradbena_dovoljenja_po_statisticnih_regijah.csv', fileEncoding = 'Windows-1250', header = TRUE,
                                  skip = 3, nrows = 223,sep = ';', dec = '.', na = c('', '-', ' ') )
