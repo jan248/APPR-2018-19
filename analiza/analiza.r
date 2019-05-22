@@ -1,11 +1,12 @@
-# 4. faza: Analiza podatkov
+source('lib/libraries.r', encoding = 'UTF-8')
 
-podatki <- obcine %>% transmute(obcina, povrsina, gostota,
-                                gostota.naselij=naselja/povrsina) %>%
-  left_join(povprecja, by="obcina")
-row.names(podatki) <- podatki$obcina
-podatki$obcina <- NULL
+prileganje <- lm(data = dokon.stan.slo, Stevilo ~ Leto)
+leta <- data.frame(Leto=seq(2017,2020,1))
+napoved <- mutate(leta, Stevilo=predict(prileganje,leta))
 
-# Število skupin
-n <- 5
-skupine <- hclust(dist(scale(podatki))) %>% cutree(n)
+graf.napovedi <- ggplot(dokon.stan.slo, aes(x=Leto, y=Stevilo))+ 
+  geom_point() + geom_smooth(method=lm, fullrange=TRUE, color='red') + geom_point(data=napoved, inherit.aes = TRUE)+
+  labs(title='Dokončana stanovanja v Sloveniji') + 
+  scale_x_continuous('Leto', breaks = seq(2007, 2020, 1), limits = c(2007,2019))
+
+

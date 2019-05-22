@@ -85,6 +85,19 @@ graf.grad.dovolj
 
 Vidimo spreminjanje števila stavb glede na površino v 10000 kvadratnih metrih in leta ter regije. Opazim veliko zmanjšanje števila stavb po krizi, ki se nadaljuje vse do 2014, kjer prvič opazimo izboljšanje razmer. Obeti za prihodnost  so po mojih ocenah dobri, saj je v zadnjih letih prišlo do občutnega izboljšanja na trgu gradbeništva.
 
+```{r analiza, echo=FALSE, message=FALSE, results='hide', warning=FALSE}
+source('analiza/analiza.r', encoding = 'UTF-8')
+
+
+```
+
+
+```{r graf.napovedi, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, fig.align='center', fig.height=7, fig.cap='Napoved dokončanih stanovanj'}
+plot(graf.napovedi)
+```
+Moja regresijska premica mi o prihodnosti dokončanih stanovanj pove, da se naj bi gradnja končala. Takšno premico dobim, ker so po krizi bili slabi rezultati gradnje in premica ne opisuje, da se stanje izboljšuje. 
+
+
 ## Zaključek
 
 Iz analize gradbeništva vidimo, da je kriza močno pretresla ta sektor, vendar v zadjih letih opazimo izboljšanje. Opazimo več gradnje stanovanj v jugovzhodni Sloveniji in pomurski regiji. Zanimivo je, da se je v osrednji Sloveniji gradilo manj od ostalih regij, kar sam nisem pričakoval. 
