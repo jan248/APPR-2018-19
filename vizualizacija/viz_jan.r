@@ -19,6 +19,7 @@ graf.gradbena.dovoljenja.regije <- ggplot((data=grad.dovol.regije), aes(x=Leto, 
 graf.ocena.stanovanj.gradnja <- ggplot((data=ocena.stanovanj.gradnja1), aes(x=Leto, y=Število, col=Tip.stanovanja)) + 
   geom_point() + geom_line() +
   scale_x_continuous('Leto', breaks = seq(2008, 2017, 1), limits = c(2008,2017))
+
  
 
 
@@ -88,6 +89,8 @@ onesnazenost <- dcast(ones.reg, Regija~Leto, value.var = 'Stevilo')
 prisotnost.kriminala <- dcast(krim.regije, Regija~Leto, value.var = 'Stevilo')
 svetloba <- dcast(svet.reg, Regija~Leto, value.var = 'Stevilo')
 hrup <- dcast(hrup.reg, Regija~Leto, value.var = 'Stevilo')
+slabo.stanje <- slabo.stanje[,-12]
+slabo.stanje <- slabo.stanje%>%filter(Regija != 'STATISTIČNA REGIJA')
 
 regije <- slabo.stanje
 regije <- left_join(regije, slabo.ogrevanje, by='Regija')

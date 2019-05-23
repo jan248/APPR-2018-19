@@ -17,7 +17,11 @@ ocena.stanovanj.gradnja <- ocena.stanovanj.gradnja%>% filter(Leto != ' ')
 ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja%>%gather('Tip.stanovanja', 'Število', -Leto)
 ocena.stanovanj.gradnja1 <- ocena.stanovanj.gradnja1%>%filter(Tip.stanovanja != 'Stanovanja.v.gradnji...SKUPAJ')%>%filter(Tip.stanovanja != 'Dokončana.stanovanja...SKUPAJ.')%>%filter(Tip.stanovanja != 'Dokončana.stanovanja.na.1000.prebivalcev')
 
-
+ocena.stanovanj.gradnja1$Tip.stanovanja <- gsub('Dokončana stanovanja -  investitor pravna oseba', 'Dokončana stanovanja kjer je investitor pravna oseba', ocena.stanovanj.gradnja1$Tip.stanovanja)
+ocena.stanovanj.gradnja1$Tip.stanovanja <- gsub('Dokončana stanovanja - investitor fizična oseba', 'Dokončana stanovanja kjer je investitor fizična oseba', ocena.stanovanj.gradnja1$Tip.stanovanja)
+ocena.stanovanj.gradnja1$Tip.stanovanja <- gsub('Dokončana stanovanja - SKUPAJ', 'Vsa dokončana stanovanja', ocena.stanovanj.gradnja1$Tip.stanovanja)
+ocena.stanovanj.gradnja1$Tip.stanovanja <- gsub('Stanovanja v gradnji - z začetkom gradnje v letu', 'Stanovanja v gradnji v začetku leta', ocena.stanovanj.gradnja1$Tip.stanovanja)
+ocena.stanovanj.gradnja1$Tip.stanovanja <- gsub('Stanovanja v gradnji ob koncu leta', 'Stanovanja v gradnji ob koncu leta', ocena.stanovanj.gradnja1$Tip.stanovanja)
 
 # 3. tabela: gradbena dovoljenja po statisticnih regijah
 grad.dovol.stat.reg <- read.csv2(file = 'podatki/Gradbena_dovoljenja_po_statisticnih_regijah.csv', fileEncoding = 'Windows-1250', header = TRUE,
@@ -84,43 +88,43 @@ colnames(preb.reg)<-c('Regija','Leto','Stevilo')
 preb.reg <- preb.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
 
 # 17. tabela: prisotnost kriminala po regijah
-krim.regije <- read.csv2(file = 'podatki/Prisotnost_kriminala_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                         skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+krim.regije <- read.csv2(file = 'podatki/kriminal_novo.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                         skip = 2, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
 krim.regije <- krim.regije[c(-3)]
 colnames(krim.regije)<-c('Regija','Leto','Stevilo')
 krim.regije <- krim.regije %>% fill(1:2) %>% filter(Stevilo != ' ')
 
 # 18. tabela: onesnaženost okolja po regijah
-ones.reg <- read.csv2(file = 'podatki/Onesnazenost_okolja_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+ones.reg <- read.csv2(file = 'podatki/onesnazenost_novo.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 2, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
 ones.reg <- ones.reg[c(-3)]
 colnames(ones.reg)<-c('Regija','Leto','Stevilo')
 ones.reg <- ones.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
 
 
 # 19. tabela: težave s hrupom po regijah
-hrup.reg <- read.csv2(file = 'podatki/Tezave_s_hrupom_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+hrup.reg <- read.csv2(file = 'podatki/hrup_novo.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 2, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
 hrup.reg <- hrup.reg[c(-3)]
 colnames(hrup.reg)<-c('Regija','Leto','Stevilo')
 hrup.reg <- hrup.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
 
 # 20. tabela: premalo svetlobe po regijah
-svet.reg <- read.csv2(file = 'podatki/Premalo_svetlobe_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                      skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+svet.reg <- read.csv2(file = 'podatki/svetloba_novo.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                      skip = 2, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
 svet.reg <- svet.reg[c(-3)]
 colnames(svet.reg)<-c('Regija','Leto','Stevilo')
 svet.reg <- svet.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
 
 # 21. tabela: ni primernega ogrevanja po regijah
-ogrev.reg <- read.csv2(file = 'podatki/Ni_primernega_ogrevanja_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
-                       skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
+ogrev.reg <- read.csv2(file = 'podatki/ogrevanje_novo.csv', fileEncoding = 'Windows-1250', header = TRUE,
+                       skip = 2, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
 ogrev.reg <- ogrev.reg[c(-3)]
 colnames(ogrev.reg)<-c('Regija','Leto','Stevilo')
 ogrev.reg <- ogrev.reg %>% fill(1:2) %>% filter(Stevilo != ' ')
 
 # 22. tabela: slabo stanje stanovanj po regijah
-slab.stan.reg <- read.csv2(file = 'podatki/Slabo_stanje_stanovanj_regije.csv', fileEncoding = 'Windows-1250', header = TRUE,
+slab.stan.reg <- read.csv2(file = 'podatki/slabo_stanje_novo.csv', fileEncoding = 'Windows-1250', header = TRUE,
                            skip = 1, nrows = 231, sep = ';', dec = '.', na = c('', '-', ' ') )
 slab.stan.reg <- slab.stan.reg[c(-3)]
 colnames(slab.stan.reg)<-c('Regija','Leto','Stevilo')
@@ -135,6 +139,7 @@ colnames(dokon.stan.slo)<-c('Leto','Stevilo')
 
 
 
+# 24. nova tabela
 
 
 

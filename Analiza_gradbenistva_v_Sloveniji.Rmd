@@ -51,7 +51,7 @@ source('vizualizacija/viz_jan.r', encoding = 'UTF-8')
 ```
 
 
-```{r graf.gradbena.dovoljenja.regije, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=7, fig.cap='Graf gradbenih dovoljenj po regijah'}
+```{r graf.gradbena.dovoljenja.regije, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, fig.align='center', fig.height=7, fig.width=10, fig.cap='Graf gradbenih dovoljenj po regijah'}
 plot(graf.gradbena.dovoljenja.regije)
 ```
 
