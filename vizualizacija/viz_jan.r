@@ -5,7 +5,7 @@ library(rgdal)
 library(ggvis)
 library(mosaic)
 library(maptools)
-library(maditr)
+
 library(plotly)
 source('lib/libraries.r')
 source('lib/uvozi.zemljevid.r')
@@ -20,7 +20,7 @@ graf.ocena.stanovanj.gradnja <- ggplot((data=ocena.stanovanj.gradnja1), aes(x=Le
   geom_point() + geom_line() +
   scale_x_continuous('Leto', breaks = seq(2008, 2017, 1), limits = c(2008,2017))
 
- 
+
 
 
 
@@ -28,18 +28,17 @@ graf.ocena.stanovanj.gradnja <- ggplot((data=ocena.stanovanj.gradnja1), aes(x=Le
 
 
 Slovenija <- uvozi.zemljevid("http://biogeo.ucdavis.edu/data/gadm2.8/shp/SVN_adm_shp.zip",
-                             "SVN_adm1") %>% fortify()
+                             "SVN_adm1", encoding = 'UTF-8') %>% fortify()
 colnames(Slovenija)[12] <- 'Regija'
 Slovenija$Regija <- gsub('GoriĹˇka', 'Goriška', Slovenija$Regija)
 Slovenija$Regija <- gsub('KoroĹˇka', 'Koroška', Slovenija$Regija)
-Slovenija$Regija <- gsub('Notranjsko-kraĹˇka', 'Primorsko-notranjska', Slovenija$Regija)
+Slovenija$Regija <- gsub('Notranjsko-kraška', 'Primorsko-notranjska', Slovenija$Regija)
 Slovenija$Regija <- gsub('Obalno-kraĹˇka', 'Obalno-kraška', Slovenija$Regija)
 Slovenija$Regija <- gsub('Spodnjeposavska', 'Posavska', Slovenija$Regija)
 
 graf_slovenija <- ggplot(Slovenija, aes(x=long, y=lat, group=group, fill=Regija)) +
   geom_polygon(inherit.aes = TRUE, show.legend = TRUE) +
-  labs(title="Slovenija - brez podatkov") +
-  theme(legend.position="none")
+  labs(title="Slovenija - brez podatkov") 
 #plot(graf_slovenija)
 
 indeks <- left_join(preb.reg, grad.dovol.st.stavb, by=c('Regija', 'Leto')) %>% filter(Stevilo.stavb != '')
@@ -100,6 +99,7 @@ regije <- left_join(regije, svetloba, by = 'Regija')
 regije <- left_join(regije, hrup, by = 'Regija')
 
 regije1 <- regije[,-1]
+#regije1 = regije1 %>%sapply(parse_integer) %>%as.data.frame()
 fit<-hclust(dist(scale(regije1)))
 skupine2 <- cutree(fit, 4)
 
